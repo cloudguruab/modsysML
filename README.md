@@ -24,7 +24,7 @@ ModsysML is an open source toolbox for automating, building insights and evaluat
 
 ModsysML provides a framework for building relevant test cases across 4 domains, semantic, LLM based, Human in the loop and programmatic tests. It's a collection of python plugins wrapped into an SDK that provide the basic functionality, but may not fit each use case out of the box. You can craft custom test cases, run evaluations on model responses, curate automated scripts and generate data frames.
 
-ModsysML strictly uses official provider integrations via API, psycopg and a few other modules to provide the building blocks. ModsysML is the upstream project to the Apollo API interface which serves as a UI for your development needs.
+ModsysML strictly uses official provider integrations via API, psycopg and a few other modules to provide the building blocks.
 
 ## 🚀 Interesting, how can I try it?
 
