@@ -61,8 +61,6 @@ _Support for user interface coming soon_
 
 **It works on the command line, you can output to [`json`, `csv`, `yaml`]:**
 
-![Prompt eval](https://github.com/apolloapi/apolloapi/assets/72639210/c65b4565-5d17-4b32-971c-d4a51d9d137e)
-
 To get started, run the following command:
 
 ```
@@ -77,12 +75,12 @@ After editing the prompts and variables to your desired state, `modsys` command 
 modsys -p ./prompts.txt -v ./vars.csv -r openai:completion
 ```
 
-If you're looking to customize your usage, you have a wide set of parameters at your disposal. See the [Configuration docs](https://docs.apolloapi.io/docs/api/configuration_tests) for more detail:
+If you're looking to customize your usage, you have a wide set of parameters at your disposal.
 
 | Option                                           | Description                                                                                                                                            |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `-p, --prompts <paths...>`                       | Paths to prompt files, directory, or glob                                                                                                              |
-| `-r, --providers <name or path...>`              | One of: openai:chat, openai:completion, openai:model-name, hive:hate, google:safety, etc. See [AI Providers](https://docs.apolloapi.io/docs/providers) |
+| `-r, --providers <name or path...>`              | One of: openai:chat, openai:completion, openai:model-name, hive:hate, google:safety, etc. |
 | `-o, --output <path>`                            | Path to output file (csv, json, yaml, html)                                                                                                            |
 | `-v, --vars <path>`                              | Path to file with prompt variables (csv, json, yaml)                                                                                                   |
 | `-c, --config <path>`                            | Path to configuration file. `config.json` is automatically loaded if present                                                                           |
@@ -164,7 +162,7 @@ modsys -p prompts.txt -r hiveai:hate google:safety -o output.json
 
 ### Building Automated Pipelines in the User Interface or Programmatically
 
-![image](https://github.com/apolloapi/apolloapi/assets/72639210/602234c2-f855-4514-8188-505c0d6c39c1)
+#[TODO]
 
 Let's setup your first Integration!
 
