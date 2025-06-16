@@ -15,10 +15,6 @@ Framework for improving AI models
 </div>
 
 <p align="center">
-    <br />
-    <a href="https://modsys.vercel.app/docs/intro" rel="dofollow"><strong>Docs»</strong></a>
-    <br />
-
   <br/>
     <a href="https://github.com/modsysML/modsys/issues">Report Bug</a>
 </p>
