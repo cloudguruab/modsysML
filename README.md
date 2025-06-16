@@ -20,11 +20,7 @@ Framework for improving AI models
     <br />
 
   <br/>
-    <a href="https://www.apolloapi.io/">Join the waitlist</a>
-    ·
     <a href="https://github.com/modsysML/modsys/issues">Report Bug</a>
-    ·
-    <a href="https://discord.gg/ZUH7f7AzUY">Community Discord</a>
 </p>
 
 
@@ -255,8 +251,6 @@ Modsys.test('prompt', 'expected_output') # ML Validation
 
 That's all it takes!
 
-In practice, you probably want to use one of our native SDKs to interact with different AI providers or use our custom browser client so you dont have to write code. If so, sign up for the downstream [Apollo ModsysML Console](https://use.apolloapi.io/admin/)!
-
 ##### Cool, what can I build with it?
 
 - Modsys can help you **quickly automate tasks** for model management, performance, labeling, object detection and more.
@@ -311,8 +305,6 @@ The first line should not be longer than 75 characters, the second line is alway
 ## 🔍 Neat, I would like to learn more
 
 ⭐ Follow our development by starring us here on GitHub ⭐
-
-- Share feedback or chat with us on the [Discord community](https://discord.gg/ZUH7f7AzUY)
 
 ## AI Providers
 
